@@ -7,3 +7,4 @@ NOW change from VS
 refs/remotes/origin/main
 the working is run
 okey then from github
+work work
