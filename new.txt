@@ -5,4 +5,9 @@ now started from chnage
 
 NOW change from VS
 refs/remotes/origin/main
+<<<<<<< Updated upstream
+the working is run
+=======
 the working is run now
+tata bye bye
+>>>>>>> Stashed changes
