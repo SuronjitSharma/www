@@ -1,2 +1,7 @@
 hello khoka
+<<<<<<< HEAD
 now started from chnage 
+=======
+
+NOW change from VS
+>>>>>>> refs/remotes/origin/main
